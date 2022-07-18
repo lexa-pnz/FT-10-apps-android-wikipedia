@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.datatransport:transport-runtime:3.1.6@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b9ecc4ab0663e5fb2d585dbacd2b696d/transformed/jetified-transport-runtime-3.1.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9b772896db472662699ea8aca60228fd/transformed/jetified-transport-runtime-3.1.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9b772896db472662699ea8aca60228fd/transformed/jetified-transport-runtime-3.1.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9b772896db472662699ea8aca60228fd/transformed/jetified-transport-runtime-3.1.6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.datatransport/transport-runtime/3.1.6/f1e65f42c5aea6a698c7b4cbe4904ca1e1e040a4/transport-runtime-3.1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
